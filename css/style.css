@@ -2,3 +2,36 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: #F2E9E4;
+  color: #403939;
+}
+
+img{
+  margin: 10px;
+}
+
+h3 {
+  padding: 16px;
+  letter-spacing: 10px;
+  background-color: #403939;
+  color: #F2E9E4;
+}
+
+h4 {
+  letter-spacing: 10px;
+  color: #732716;
+}
+
+h5 {
+  padding: 16px;
+  letter-spacing: 10px;
+}
+
+h1 {
+  font-size: 6em;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 5px;
+
+}
