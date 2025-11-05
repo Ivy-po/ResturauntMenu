@@ -3,6 +3,12 @@ html {
   width: 100%;
 }
 
+hr {
+  height: 3px;       /* controls thickness */
+  background-color: #333;  /*line color*/
+  border: none;       /* remove default border */
+}
+
 
 h1, .dish {
   font-family: "Cormorant Garamond", serif;
@@ -52,8 +58,14 @@ h3 {
   padding: 2px;
 }
 
+p{
+font-size: 16px;
+
+}
+
 h2{
   color: #732716;
+  font-size: 3em;
 }
 
 
